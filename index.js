@@ -64,7 +64,7 @@
 /**
  * Package for ComponentJS
  */
-var $ = require('jquery');
+var $ = jQuery = require('jquery');
 
 ;(function (factory) {
 	if (typeof define === 'function' && define.amd) {
