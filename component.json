@@ -3,7 +3,7 @@
   "repo": "virtru-components/simplemodal",
   "version": "1.4.6",
   "dependencies": {
-    "components/jquery": "2.1.0"
+    "virtru-components/jquery": "2.1.0"
   },
   "scripts": [
     "index.js"
